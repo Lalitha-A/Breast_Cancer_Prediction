@@ -1,14 +1,13 @@
 # Breast Cancer_Prediction
 
-Model
-
+**Models used:**
 Trained a machine learning model to predict breast cancer based on the features provided in the dataset. The model is trained using the scikit-learn library in Python.
 Algorithms Used are:
 1.Logistic Regression
 2.Support Vector Machine (SVM)
 3.Naive Bayes
 
-Evaluation Metrics used are:
+**Evaluation Metrics** used are:
 Accuracy
 Precision
 Recall
